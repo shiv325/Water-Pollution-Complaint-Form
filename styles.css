@@ -76,3 +76,8 @@ input[type="file"] {
 a {
   color : #dfdfe2
 }
+
+h1, h2 {
+  text-decoration: underline;
+  text-underline-offset: 10px;
+}
